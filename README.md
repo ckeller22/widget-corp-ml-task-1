@@ -8,6 +8,8 @@ Solution to Milestone One of https://www.manning.com/liveproject/upd-training-an
 
 Make a copy of `.env.example` with your own AWS credentials.
 
+Make sure to update the IAM user you intend to use with correct privileges, specifically `comprehend:DetectSentiment`.
+
 ## Usage
 
 TODO
