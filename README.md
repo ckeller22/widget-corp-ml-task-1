@@ -1,4 +1,4 @@
-# Widget Corp Machine Learning Task One
+# Widget Corp Machine Learning Project
 
 ## Description
 
